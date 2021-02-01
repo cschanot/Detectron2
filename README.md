@@ -1,3 +1,5 @@
+Minor modifications to work with Blue Iris + MQTT to alert when a person is detected on camera footage
+
 # Detectron2 pipeline
 
 Modular image processing pipeline using OpenCV and Python generators powered by [Detectron2](https://github.com/facebookresearch/detectron2).  
